@@ -118,6 +118,7 @@ def user_stats(df):
     print('-'*40)
 
 
+
 def main():
     while True:
         city, month, day = get_filters()
